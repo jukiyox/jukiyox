@@ -16,9 +16,9 @@
 <pre></pre>
 
 
-
-
-
+<p align="center">
+<img src=https://lparchive.org/999-Nine-Hours-Nine-Persons-Nine-Doors/Update%2063/2-001.png>
+</p>
 
 
 
