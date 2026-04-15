@@ -6,7 +6,7 @@
 
 
 <pre>
- <p align="center">  ୭˚⋆✴︎˚｡⋆   jay  ּ ֶָ֢.  istj  ּ ֶָ֢.  he / him  ּ ֶָ֢.  6teen .   mlm .    </p>
+ <p align="center">  ୭˚⋆✴︎˚｡⋆   jay  ּ ֶָ֢.  istj  ּ ֶָ֢.  he / him  ּ ֶָ֢.  7teen .   mlm .    </p>
 <pre>
 
 
