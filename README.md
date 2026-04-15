@@ -23,7 +23,6 @@
   </a>
 </p>
 
-
 <p align="center">
 <img src=https://us-east.storage.cloudconvert.com/tasks/4654d579-23b7-4968-ace1-c064c2a4882d/Untitled5_20260415120007.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20260415%2Fva%2Fs3%2Faws4_request&X-Amz-Date=20260415T170432Z&X-Amz-Expires=86400&X-Amz-Signature=ebdb5a3e9260e571b3841c549f3e38c5a928392c853a8ecd94aac6db04efbfa2&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22Untitled5_20260415120007.png%22&response-content-type=image%2Fpng&x-id=GetObject />
 
