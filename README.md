@@ -7,7 +7,7 @@
 
 
 <pre>
- <p align="center">  ୭˚⋆✴︎˚｡⋆   jay  ּ ֶָ֢.  infp  ּ ֶָ֢.  he / him  ּ ֶָ֢.  6teen .   mlm .    </p>
+ <p align="center">  ୭˚⋆✴︎˚｡⋆   jay  ּ ֶָ֢.  infp  ּ ֶָ֢.  he / him  ּ ֶָ֢.  7teen .   mlm .    </p>
 <pre>
 
 
